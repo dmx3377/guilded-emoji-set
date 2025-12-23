@@ -9,18 +9,19 @@ All emojis are stored in the `emojis` directory, organised as follows:
 | Folder        | Description                                                  |
 |---------------|--------------------------------------------------------------|
 | `{root}`      | Contains all the *'static'* emojis.                               |
-| `animated`    | Houses the `.apng` and `.gif` versions of certain emojis that were animated. |
+| `animated`    | Houses the `.apng` and `.gif` versions of certain emojis. |
 | `logos`       | Contains files for the Guilded and Roblox logos.            |
-| `letters`     | Includes emoji files that spelt out words (e.g., "No").     |
+| `letters`     | Includes emoji files that spell out words (e.g., ["No"](https://github.com/dmx3377/guilded-emoji-set/blob/main/emojis/letters/ohno.png) ).     |
 
-## CDN Access
+<!-- ## CDN Access
 
-You can also access these emojis hosted on the DMx CDN at the following link: https://cdn.dmx3377.uk/guilded-emoji.
+You can also access these emojis hosted on the DMx CDN at the following link: https://cdn.dmx3377.uk/guilded-emoji. -->
 
-## License
+## Copyright
 
-**These emojis are *(likely)* copyrighted by Guilded/Roblox Corp.**
+**These emojis are *(likely)* copyright of Guilded/Roblox Corp.**
 
+### License
 ```
 (C) 2025 David Maj/dmx3377 <david@dmx3377.uk>
 
